@@ -5,4 +5,5 @@ Estudo programação a um tempo e senti a necessidade de criar um **repositório
 - **Lógica de programação**
 - **Algoritmos**
 - **Estruturas de dados** 
+- **Métodos e funcões específicas**
 - **Ferramentas como `git`**
