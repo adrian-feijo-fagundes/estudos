@@ -10,8 +10,12 @@ Estudo programação a um tempo e senti a necessidade de criar um **repositório
 
 
 ## Diretórios
-- **html-css-js**: Conteudos sobre html e css isolados, para entendimento dos conceitos, e estudos relacionados a manipulação do DOM com javascript
+- **html-css-js**: Conteudos sobre html e css isolados, para entendimento dos conceitos, e estudos relacionados a manipulação do DOM com javascript.
 - **javascript**: Conteudos gerais sobre javascript, evitando usar bibliotecas externas, no máximo `readline-sync`, foco em conceitos nativos da linguagem.
+     - Nem todos os arquivos contém comentários sobre o que está sendo elaborado no caso do sub-diretório [`logicaDeProgramacao/atividades`](javascript/logicaDeProgramacao/atividades/)
+    - [Lista de exercicios simples 1](javascript/logicaDeProgramacao/atividades/ListasDeAtividades/parte1/_exercicios.md)
+    - [Lista de exercicios simples 2](javascript/logicaDeProgramacao/atividades/ListasDeAtividades/parte2/_exercicios.md)
+        
 
 ## Observações:
 
